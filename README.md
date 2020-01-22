@@ -1,2 +1,3 @@
 # Expectation_Maximization_for_Gaussian_Mixture_Model
  
+The task is to build a system which takes the sonar data from ships in the sea and the number of ships as input and provide the estimated location of each ship as the output. Unfortunately, if there are several ships nearby, the signals cause interference. Using periscope visuals, it is possible to determine the number of ships but exact location of each ship is difficult to locate. In this project, I used an Expectation Maximization Algorithm to estimate the parameters of the Gaussian Mixture Model. Please refer to the problem statement to get a detailed understanding of the problem and the algorithm.
